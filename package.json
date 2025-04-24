@@ -1,0 +1,30 @@
+{
+	"name": "huu-code",
+	"version": "0.0.1",
+	"description": "Agente CLI para assistência de programação baseado em Claude Code",
+	"main": "src/index.ts",
+	"type": "module",
+	"scripts": {
+		"start": "node src/index.ts",
+		"test": "node --test"
+	},
+	"keywords": [
+		"agent",
+		"llm",
+		"claude-code",
+		"langchain",
+		"cli",
+		"ai",
+		"memory",
+		"typescript",
+		"node",
+		"react"
+	],
+	"author": {
+		"name": "Frederico Guilherme Klüser de Oliveira",
+		"email": "kluserhuu@gmail.com",
+		"url": "https://www.linkedin.com/in/frederico-kluser/"
+	},
+	"homepage": "https://frederico-kluser.com",
+	"license": "MIT"
+}
